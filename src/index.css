@@ -1,0 +1,11 @@
+.dogs {
+  background-color: green;
+
+  li {
+    color: white;
+
+    &:hover {
+      background-color: black;
+    }
+  }
+}
